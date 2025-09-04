@@ -1,3 +1,5 @@
+// hard redeploy
+
 export default function handler(req, res) {
   try {
     // grab query params
